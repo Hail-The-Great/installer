@@ -1,6 +1,6 @@
 {
     "name": "hail-the-great/installer",
-    "type": "composer-plugin-test",
+    "type": "composer-plugin",
     "require": {
         "composer-plugin-api": "^1.0"
     },
