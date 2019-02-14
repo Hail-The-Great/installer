@@ -21,11 +21,5 @@
     },
     "extra": {
         "class": "think\\composer\\Plugin"
-    },
-    "repositories":[
-		{
-			"type":"git",
-			"url": "https://github.com/Hail-The-Great/installer.git"
-		}
-    ]
+    }
 }
