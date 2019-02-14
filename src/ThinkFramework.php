@@ -54,6 +54,6 @@ class ThinkFramework extends LibraryInstaller
      */
     public function supports($packageType)
     {
-        return 'composer-plugin-test' === $packageType;
+        return 'composer-test' === $packageType;
     }
 }
